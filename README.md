@@ -20,7 +20,7 @@ To check that all the depencies have been set up, execute
 		Build    : 928f77c4bc3f49d892459992fb6e1d5542cb5e86
 ```
 
-### Administration Manager local set-up
+### SLA Manager local set-up
 
 To set the service, execute the following commands
 ``` 
