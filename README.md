@@ -31,6 +31,6 @@ To set the service, execute the following commands
 The server is now running and listening on the port chosen in the *hosting.json*. file (e.g. 80).  
 
 The SLA Manager is expected to interact with the:
-- [Registry Interface](https://github.com/sunfish-prj/Registry-Interface.git).
+- [Service Ledger Interface](https://github.com/sunfish-prj/Registry-Interface.git).
 
 The *urls* and *ports* for the above application may be altered in the *appsettings.production.json* config file.
